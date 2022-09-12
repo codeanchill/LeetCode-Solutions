@@ -1,2 +1,0 @@
-# TwoSum
-LeetCode Solution
